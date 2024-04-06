@@ -55,10 +55,10 @@
   font-size: 16px;
   font-weight: 500;
 }
-@media (max-widht: 800px) {
+@media (max-width: 800px) {
   .addproduct {
     width: auto;
     padding: 30px;
-    margin: 20px;
+    margin: 20px auto;
   }
 }
